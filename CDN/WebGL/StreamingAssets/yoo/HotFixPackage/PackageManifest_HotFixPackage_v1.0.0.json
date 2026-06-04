@@ -83,8 +83,8 @@
         {
             "BundleName": "hotfixpackage_assets_gamereshotfix_aot_dll_bytes.rawfile",
             "UnityCRC": 0,
-            "FileHash": "3c944bfe4cf05766f8a45581b55946fb",
-            "FileCRC": "b689d001",
+            "FileHash": "c5f748f28d589257d8b33aa9f4d4bcd9",
+            "FileCRC": "3e02c395",
             "FileSize": 56320,
             "Encrypted": false,
             "Tags": [],
@@ -113,8 +113,8 @@
         {
             "BundleName": "hotfixpackage_assets_gamereshotfix_mscorlib_dll_bytes.rawfile",
             "UnityCRC": 0,
-            "FileHash": "dbb4f241ad43f0e2a3ec0aa5e039e326",
-            "FileCRC": "886ef43f",
+            "FileHash": "d65962157ddec4f908cc2ad39ecf6645",
+            "FileCRC": "221be384",
             "FileSize": 2439168,
             "Encrypted": false,
             "Tags": [],
@@ -173,9 +173,9 @@
         {
             "BundleName": "hotfixpackage_assets_gamereshotfix_yooasset_dll_bytes.rawfile",
             "UnityCRC": 0,
-            "FileHash": "b4d203267aae69989b7c8e7dfca906b1",
-            "FileCRC": "7ea2a32a",
-            "FileSize": 128512,
+            "FileHash": "d310a8af31cadccc4aa6796e4d9bfb79",
+            "FileCRC": "c1c64ba8",
+            "FileSize": 172032,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
