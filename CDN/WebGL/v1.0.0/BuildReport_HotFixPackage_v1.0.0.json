@@ -2,7 +2,7 @@
     "Summary": {
         "YooVersion": "2.1.0",
         "UnityVersion": "2022.3.15f1c1",
-        "BuildDate": "2026/6/4 23:06:28",
+        "BuildDate": "2026/6/4 23:27:57",
         "BuildSeconds": 0,
         "BuildTarget": 20,
         "BuildMode": 0,
@@ -122,9 +122,9 @@
     "BundleInfos": [
         {
             "BundleName": "hotfixpackage_assets_gamereshotfix_aot_dll_bytes.rawfile",
-            "FileName": "5a2b92f495c973ced485942753f8bd12.rawfile",
-            "FileHash": "5a2b92f495c973ced485942753f8bd12",
-            "FileCRC": "6a5ba718",
+            "FileName": "3c944bfe4cf05766f8a45581b55946fb.rawfile",
+            "FileHash": "3c944bfe4cf05766f8a45581b55946fb",
+            "FileCRC": "b689d001",
             "FileSize": 56320,
             "Encrypted": false,
             "Tags": [],
