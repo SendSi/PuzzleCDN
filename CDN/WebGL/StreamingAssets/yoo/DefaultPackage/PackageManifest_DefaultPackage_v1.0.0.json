@@ -752,10 +752,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_gameres_fgui_puzzlepkg_fui.bundle",
-            "UnityCRC": 3525117895,
-            "FileHash": "4cf1344c0ac0d8826023009886e0a3da",
-            "FileCRC": "fdcb6b5e",
-            "FileSize": 7191,
+            "UnityCRC": 1449945715,
+            "FileHash": "581696405b19034ee49566bfeadd20ff",
+            "FileCRC": "d6192b3f",
+            "FileSize": 7185,
             "Encrypted": false,
             "Tags": [],
             "DependIDs": []
