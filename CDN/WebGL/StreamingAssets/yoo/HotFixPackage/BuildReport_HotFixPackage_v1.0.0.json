@@ -2,7 +2,7 @@
     "Summary": {
         "YooVersion": "2.1.0",
         "UnityVersion": "2022.3.15f1c1",
-        "BuildDate": "2026/6/5 12:35:22",
+        "BuildDate": "2026/6/5 13:15:26",
         "BuildSeconds": 0,
         "BuildTarget": 20,
         "BuildMode": 0,
@@ -23,7 +23,7 @@
         "AssetFileTotalCount": 10,
         "MainAssetTotalCount": 10,
         "AllBundleTotalCount": 10,
-        "AllBundleTotalSize": 4872396,
+        "AllBundleTotalSize": 4872400,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -52,7 +52,7 @@
             "AssetGUID": "e688c200848474d428426b9e3045be17",
             "AssetTags": [],
             "MainBundleName": "hotfixpackage_assets_gamereshotfix_hotupdate_pdb_bytes.rawfile",
-            "MainBundleSize": 104140,
+            "MainBundleSize": 104144,
             "DependAssets": []
         },
         {
@@ -122,9 +122,9 @@
     "BundleInfos": [
         {
             "BundleName": "hotfixpackage_assets_gamereshotfix_aot_dll_bytes.rawfile",
-            "FileName": "5c2794d31522561817b9cb0db9e26d16.rawfile",
-            "FileHash": "5c2794d31522561817b9cb0db9e26d16",
-            "FileCRC": "c6bd79ef",
+            "FileName": "a38b7888b8ec353049b385585859c303.rawfile",
+            "FileHash": "a38b7888b8ec353049b385585859c303",
+            "FileCRC": "5afbd227",
             "FileSize": 56320,
             "Encrypted": false,
             "Tags": [],
@@ -135,9 +135,9 @@
         },
         {
             "BundleName": "hotfixpackage_assets_gamereshotfix_hotupdate_dll_bytes.rawfile",
-            "FileName": "949c0b448808f90350951d5fc5b7d20a.rawfile",
-            "FileHash": "949c0b448808f90350951d5fc5b7d20a",
-            "FileCRC": "1a44764a",
+            "FileName": "3e9686e04740fb8c0c3f45e01f36a322.rawfile",
+            "FileHash": "3e9686e04740fb8c0c3f45e01f36a322",
+            "FileCRC": "ffd54c55",
             "FileSize": 219648,
             "Encrypted": false,
             "Tags": [],
@@ -148,10 +148,10 @@
         },
         {
             "BundleName": "hotfixpackage_assets_gamereshotfix_hotupdate_pdb_bytes.rawfile",
-            "FileName": "4c7570a287b7f888ac60809ee9a613a0.rawfile",
-            "FileHash": "4c7570a287b7f888ac60809ee9a613a0",
-            "FileCRC": "474dc652",
-            "FileSize": 104140,
+            "FileName": "0c359b0b13d58ab165a132b71162be36.rawfile",
+            "FileHash": "0c359b0b13d58ab165a132b71162be36",
+            "FileCRC": "59703192",
+            "FileSize": 104144,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
