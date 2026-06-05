@@ -2,8 +2,8 @@
     "Summary": {
         "YooVersion": "2.1.0",
         "UnityVersion": "2022.3.15f1c1",
-        "BuildDate": "2026/6/5 0:36:44",
-        "BuildSeconds": 34,
+        "BuildDate": "2026/6/5 12:35:22",
+        "BuildSeconds": 3,
         "BuildTarget": 20,
         "BuildMode": 0,
         "BuildPipeline": "BuiltinBuildPipeline",
@@ -23,7 +23,7 @@
         "AssetFileTotalCount": 130,
         "MainAssetTotalCount": 58,
         "AllBundleTotalCount": 41,
-        "AllBundleTotalSize": 7355335,
+        "AllBundleTotalSize": 7355186,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -488,7 +488,7 @@
             "AssetGUID": "b6abeccb52d98f04bb3c0ff5cdc6a109",
             "AssetTags": [],
             "MainBundleName": "defaultpackage_assets_gameres_fgui_login_fui.bundle",
-            "MainBundleSize": 13937,
+            "MainBundleSize": 13788,
             "DependAssets": []
         },
         {
@@ -1132,10 +1132,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_gameres_fgui_login_fui.bundle",
-            "FileName": "ef4450383ff3cecc2664af443fea7931.bundle",
-            "FileHash": "ef4450383ff3cecc2664af443fea7931",
-            "FileCRC": "ea3e5d73",
-            "FileSize": 13937,
+            "FileName": "4bd08049422753e2747bdaaf82a1c279.bundle",
+            "FileHash": "4bd08049422753e2747bdaaf82a1c279",
+            "FileCRC": "d4e4d713",
+            "FileSize": 13788,
             "Encrypted": false,
             "Tags": [],
             "DependBundles": [],
@@ -1171,9 +1171,9 @@
         },
         {
             "BundleName": "defaultpackage_assets_gameres_fgui_puzzlepkg_fui.bundle",
-            "FileName": "581696405b19034ee49566bfeadd20ff.bundle",
-            "FileHash": "581696405b19034ee49566bfeadd20ff",
-            "FileCRC": "d6192b3f",
+            "FileName": "4d13b328b9d91b944523e8f7eb14e88a.bundle",
+            "FileHash": "4d13b328b9d91b944523e8f7eb14e88a",
+            "FileCRC": "54619183",
             "FileSize": 7185,
             "Encrypted": false,
             "Tags": [],
