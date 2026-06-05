@@ -1,0 +1,129 @@
+ManifestFileVersion: 0
+CRC: 3456606789
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: defaultpackage_assets_gameres_effect.bundle
+      Dependencies:
+        Dependency_0: defaultpackage_unityshaders.bundle
+    Info_1:
+      Name: defaultpackage_assets_gameres_audio.bundle
+      Dependencies: {}
+    Info_2:
+      Name: defaultpackage_unityshaders.bundle
+      Dependencies: {}
+    Info_3:
+      Name: defaultpackage_assets_gameres_scene_init_reflectionprobe-0.bundle
+      Dependencies: {}
+    Info_4:
+      Name: defaultpackage_assets_gameres_scene_init.bundle
+      Dependencies:
+        Dependency_0: defaultpackage_assets_gameres_scene_init_reflectionprobe-0.bundle
+    Info_5:
+      Name: defaultpackage_assets_gameres_scene_test.bundle
+      Dependencies: {}
+    Info_6:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_atlas0.bundle
+      Dependencies: {}
+    Info_7:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_atlas_e2ps1iy5b98.bundle
+      Dependencies: {}
+    Info_8:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_atlas_fk801ygcgqs.bundle
+      Dependencies: {}
+    Info_9:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_fui.bundle
+      Dependencies: {}
+    Info_10:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_qok1hz9cy6.bundle
+      Dependencies: {}
+    Info_11:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_qok1hz9cy9.bundle
+      Dependencies: {}
+    Info_12:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh1.bundle
+      Dependencies: {}
+    Info_13:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh2.bundle
+      Dependencies: {}
+    Info_14:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh3.bundle
+      Dependencies: {}
+    Info_15:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh4.bundle
+      Dependencies: {}
+    Info_16:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh5.bundle
+      Dependencies: {}
+    Info_17:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh6.bundle
+      Dependencies: {}
+    Info_18:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh7.bundle
+      Dependencies: {}
+    Info_19:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh8.bundle
+      Dependencies: {}
+    Info_20:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh9.bundle
+      Dependencies: {}
+    Info_21:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouha.bundle
+      Dependencies: {}
+    Info_22:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouhb.bundle
+      Dependencies: {}
+    Info_23:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouhm.bundle
+      Dependencies: {}
+    Info_24:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouhn.bundle
+      Dependencies: {}
+    Info_25:
+      Name: defaultpackage_assets_gameres_fgui_dialogtip_atlas0.bundle
+      Dependencies: {}
+    Info_26:
+      Name: defaultpackage_assets_gameres_fgui_dialogtip_fui.bundle
+      Dependencies: {}
+    Info_27:
+      Name: defaultpackage_assets_gameres_fgui_english.bundle
+      Dependencies: {}
+    Info_28:
+      Name: defaultpackage_assets_gameres_fgui_gmview_fui.bundle
+      Dependencies: {}
+    Info_29:
+      Name: defaultpackage_assets_gameres_fgui_login_atlas0.bundle
+      Dependencies: {}
+    Info_30:
+      Name: defaultpackage_assets_gameres_fgui_login_fui.bundle
+      Dependencies: {}
+    Info_31:
+      Name: defaultpackage_assets_gameres_fgui_puzzlepkg_atlas0.bundle
+      Dependencies: {}
+    Info_32:
+      Name: defaultpackage_assets_gameres_fgui_puzzlepkg_atlas_t16be.bundle
+      Dependencies: {}
+    Info_33:
+      Name: defaultpackage_assets_gameres_fgui_puzzlepkg_fui.bundle
+      Dependencies: {}
+    Info_34:
+      Name: defaultpackage_assets_gameres_fgui_settingpkg_fui.bundle
+      Dependencies: {}
+    Info_35:
+      Name: defaultpackage_assets_gameres_fgui_simchinese.bundle
+      Dependencies: {}
+    Info_36:
+      Name: defaultpackage_assets_gameres_fgui_source_bold.bundle
+      Dependencies: {}
+    Info_37:
+      Name: defaultpackage_assets_gameres_fgui_trachinese.bundle
+      Dependencies: {}
+    Info_38:
+      Name: defaultpackage_assets_gamescript_hotupdate_config_json.bundle
+      Dependencies: {}
+    Info_39:
+      Name: defaultpackage_assets_gamescript_hotupdate_config_lubanbytes.bundle
+      Dependencies: {}
+    Info_40:
+      Name: defaultpackage_assets_gameres_prefab.bundle
+      Dependencies: {}
