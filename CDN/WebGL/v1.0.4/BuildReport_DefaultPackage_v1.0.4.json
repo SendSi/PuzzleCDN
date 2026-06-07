@@ -1,0 +1,2286 @@
+{
+    "Summary": {
+        "YooVersion": "2.1.0",
+        "UnityVersion": "2022.3.15f1c1",
+        "BuildDate": "2026/6/7 21:13:30",
+        "BuildSeconds": 6,
+        "BuildTarget": 20,
+        "BuildMode": 0,
+        "BuildPipeline": "BuiltinBuildPipeline",
+        "BuildPackageName": "DefaultPackage",
+        "BuildPackageVersion": "v1.0.4",
+        "UniqueBundleName": true,
+        "EnableAddressable": true,
+        "LocationToLower": false,
+        "IncludeAssetGUID": false,
+        "IgnoreDefaultType": true,
+        "AutoCollectShaders": true,
+        "EncryptionClassName": "null",
+        "FileNameStyle": 0,
+        "CompressOption": 2,
+        "DisableWriteTypeTree": false,
+        "IgnoreTypeTreeChanges": true,
+        "AssetFileTotalCount": 176,
+        "MainAssetTotalCount": 104,
+        "AllBundleTotalCount": 86,
+        "AllBundleTotalSize": 15226062,
+        "EncryptedBundleTotalCount": 0,
+        "EncryptedBundleTotalSize": 0
+    },
+    "AssetInfos": [
+        {
+            "Address": "TX_BYCH_Skill",
+            "AssetPath": "Assets/GameRes/Effect/TX_BYCH_Skill.prefab",
+            "AssetGUID": "8220af5baa867ad44a3e6e96d75c793a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_effect.bundle",
+            "MainBundleSize": 592563,
+            "DependAssets": [
+                "Assets/GameArt/Effect/part_00087.png",
+                "Assets/GameArt/Effect/djyc_Qiliu_13.mat",
+                "Assets/GameArt/Effect/smoke01.png",
+                "Assets/GameArt/Effect/yan.png",
+                "Assets/GameArt/Shader/Particle_Additive.shader",
+                "Assets/GameArt/Effect/glow01.png",
+                "Assets/GameArt/Effect/DX_Skill1_011.mat",
+                "Assets/GameArt/Effect/FX_dx_spit_dcq01.png",
+                "Assets/GameArt/ShaderVariants/Particle_FXMain.shader",
+                "Assets/GameArt/Effect/dmg_skill1_23.mat"
+            ]
+        },
+        {
+            "Address": "TX_BYLBH_Skill1_Hit",
+            "AssetPath": "Assets/GameRes/Effect/TX_BYLBH_Skill1_Hit.prefab",
+            "AssetGUID": "bbd72e50316b19d478abf20c3af9bd99",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_effect.bundle",
+            "MainBundleSize": 592563,
+            "DependAssets": [
+                "Assets/GameArt/Effect/quan01.png",
+                "Assets/GameArt/Effect/smoke_00063.png",
+                "Assets/GameArt/Effect/Tex_Noise_08.png",
+                "Assets/GameArt/Effect/Fx_texture_0817.png",
+                "Assets/GameArt/Effect/quan01.mat",
+                "Assets/GameArt/Shader/Particle_Additive.shader",
+                "Assets/GameArt/Effect/Fx_katong_0307.png",
+                "Assets/GameArt/Effect/dmg_skill1_24.mat",
+                "Assets/GameArt/Effect/kugua_skill_14.mat",
+                "Assets/GameArt/Effect/Glow_02_01.png",
+                "Assets/GameArt/ShaderVariants/Particle_FXMain.shader",
+                "Assets/GameArt/Effect/xulie_guang01.png",
+                "Assets/GameArt/Effect/lanmei_skill_006.mat",
+                "Assets/GameArt/Effect/ng_skill_13.mat",
+                "Assets/GameArt/ShaderVariants/particle_blended.shader"
+            ]
+        },
+        {
+            "Address": "UI_renwulan_1",
+            "AssetPath": "Assets/GameRes/Effect/UI_renwulan_1.prefab",
+            "AssetGUID": "2212ece8b097b8148b800e711d2581c5",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_effect.bundle",
+            "MainBundleSize": 592563,
+            "DependAssets": [
+                "Assets/GameArt/Effect/TX_UI_renwulan.anim",
+                "Assets/GameArt/Effect/bk_01.FBX",
+                "Assets/GameArt/Effect/bl_skill_21.mat",
+                "Assets/GameArt/Effect/biankuang_12.png",
+                "Assets/GameArt/Effect/bk_02.mat",
+                "Assets/GameArt/Effect/SLG_UI_012_01.png",
+                "Assets/GameArt/ShaderVariants/Particle_FXMain.shader",
+                "Assets/GameArt/Effect/TX_UI_renwulan.controller",
+                "Assets/GameArt/Effect/xulie_suipian01.png",
+                "Assets/GameArt/Effect/baowu_56.mat",
+                "Assets/GameArt/Effect/FX_shuye_001.png",
+                "Assets/GameArt/ShaderVariants/particle_blended.shader",
+                "Assets/GameArt/Effect/bk_04.mat",
+                "Assets/GameArt/Effect/quan_04.png",
+                "Assets/GameArt/Effect/equip_img_di06.png"
+            ]
+        },
+        {
+            "Address": "UI_renwulan_2",
+            "AssetPath": "Assets/GameRes/Effect/UI_renwulan_2.prefab",
+            "AssetGUID": "9e5722444659dd94a8cb730517124d92",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_effect.bundle",
+            "MainBundleSize": 592563,
+            "DependAssets": [
+                "Assets/GameArt/Effect/TX_UI_renwulan.anim",
+                "Assets/GameArt/Effect/bk_01.FBX",
+                "Assets/GameArt/Effect/bl_skill_21.mat",
+                "Assets/GameArt/Effect/biankuang_12.png",
+                "Assets/GameArt/Effect/bk_02.mat",
+                "Assets/GameArt/Effect/SLG_UI_012_01.png",
+                "Assets/GameArt/ShaderVariants/Particle_FXMain.shader",
+                "Assets/GameArt/Effect/TX_UI_renwulan.controller",
+                "Assets/GameArt/Effect/xulie_suipian01.png",
+                "Assets/GameArt/Effect/baowu_56.mat",
+                "Assets/GameArt/Effect/FX_shuye_001.png",
+                "Assets/GameArt/ShaderVariants/particle_blended.shader",
+                "Assets/GameArt/Effect/bk_04.mat",
+                "Assets/GameArt/Effect/quan_04.png",
+                "Assets/GameArt/Effect/equip_img_di06.png"
+            ]
+        },
+        {
+            "Address": "UI_zhuangbeiFR",
+            "AssetPath": "Assets/GameRes/Effect/UI_zhuangbeiFR.prefab",
+            "AssetGUID": "06d446e4759001d4aa70d4b763fd08b5",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_effect.bundle",
+            "MainBundleSize": 592563,
+            "DependAssets": [
+                "Assets/GameArt/Effect/SLG_glow_01.png",
+                "Assets/GameArt/Effect/tuowei.png",
+                "Assets/GameArt/Effect/TX_mogu_lizi1.mat",
+                "Assets/GameArt/Effect/xx02.png",
+                "Assets/GameArt/Effect/zbqh_05.mat",
+                "Assets/GameArt/Effect/SLG_UI_012_01.png",
+                "Assets/GameArt/ShaderVariants/Particle_FXMain.shader",
+                "Assets/GameArt/Effect/xulie_suipian01.png",
+                "Assets/GameArt/Effect/xulie_guang01.png",
+                "Assets/GameArt/Effect/TX_UI_jinengshengji_lizi.mat",
+                "Assets/GameArt/Effect/dds_18.mat",
+                "Assets/GameArt/Effect/TX_BLB_attack17.mat",
+                "Assets/GameArt/ShaderVariants/particle_blended.shader"
+            ]
+        },
+        {
+            "Address": "music_background",
+            "AssetPath": "Assets/GameRes/Audio/music_background.wav",
+            "AssetGUID": "7b04c59dd84f14039b601e1abbe7b884",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_audio.bundle",
+            "MainBundleSize": 290218,
+            "DependAssets": []
+        },
+        {
+            "Address": "sound_explosion_asteroid",
+            "AssetPath": "Assets/GameRes/Audio/sound_explosion_asteroid.wav",
+            "AssetGUID": "3dc7455402dfa462b89a4bbd513955e9",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_audio.bundle",
+            "MainBundleSize": 290218,
+            "DependAssets": []
+        },
+        {
+            "Address": "sound_explosion_enemy",
+            "AssetPath": "Assets/GameRes/Audio/sound_explosion_enemy.wav",
+            "AssetGUID": "72e76810224064300b7d32e8322a5d12",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_audio.bundle",
+            "MainBundleSize": 290218,
+            "DependAssets": []
+        },
+        {
+            "Address": "sound_explosion_player",
+            "AssetPath": "Assets/GameRes/Audio/sound_explosion_player.wav",
+            "AssetGUID": "a019ae3af8e864616b85773c509f5285",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_audio.bundle",
+            "MainBundleSize": 290218,
+            "DependAssets": []
+        },
+        {
+            "Address": "sound_weapon_enemy",
+            "AssetPath": "Assets/GameRes/Audio/sound_weapon_enemy.wav",
+            "AssetGUID": "1be4472894949437694aead55c6da60f",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_audio.bundle",
+            "MainBundleSize": 290218,
+            "DependAssets": []
+        },
+        {
+            "Address": "sound_weapon_player",
+            "AssetPath": "Assets/GameRes/Audio/sound_weapon_player.wav",
+            "AssetGUID": "bf75b984df8a84987bcf3a8bf6e2862d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_audio.bundle",
+            "MainBundleSize": 290218,
+            "DependAssets": []
+        },
+        {
+            "Address": "MyShaderVariants",
+            "AssetPath": "Assets/GameArt/ShaderVariants/MyShaderVariants.shadervariants",
+            "AssetGUID": "9db74adeb46eb2c42a3ad37355029660",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_unityshaders.bundle",
+            "MainBundleSize": 136485,
+            "DependAssets": []
+        },
+        {
+            "Address": "ReflectionProbe-0",
+            "AssetPath": "Assets/GameRes/Scene/Init/ReflectionProbe-0.exr",
+            "AssetGUID": "6b74c770119c8f74d86049ce02666d25",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_scene_init_reflectionprobe-0.bundle",
+            "MainBundleSize": 4231,
+            "DependAssets": []
+        },
+        {
+            "Address": "Init",
+            "AssetPath": "Assets/GameRes/Scene/Init.unity",
+            "AssetGUID": "e1057ab3b088c7945a2ed1c9c6aa2809",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_scene_init.bundle",
+            "MainBundleSize": 94225,
+            "DependAssets": [
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/error_icon.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/date.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/memory.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/back.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/Save.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/UnityIcon.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/user.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/ComputerIcon.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/button_active.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/odd_log.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/timer_1.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/graphicCard.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/software.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/log_icon.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/selected.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/search.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/reporterScrollerSkin.guiskin",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/warning_icon.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/info.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/fps.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/copy.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/buildFrom.png",
+                "Assets/GameRes/Scene/Init/ReflectionProbe-0.exr",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/collapse.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/even_log.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/bar.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/clear.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/clearOnSceneLoaded.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/close.png"
+            ]
+        },
+        {
+            "Address": "test",
+            "AssetPath": "Assets/GameRes/Scene/test.unity",
+            "AssetGUID": "7467b61b447d159469cb8279b3470cd7",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_scene_test.bundle",
+            "MainBundleSize": 63297,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_atlas0.png",
+            "AssetGUID": "4ca74799e655db747b9448d11e129d44",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_atlas0.bundle",
+            "MainBundleSize": 369948,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_fui",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_fui.bytes",
+            "AssetGUID": "e78874f5c0dc72c4b9956260ba4d4be7",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_fui.bundle",
+            "MainBundleSize": 33464,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_qok1hz9cy6",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_qok1hz9cy6.mp3",
+            "AssetGUID": "a9cb92f30cc6d0c45baaf25608e6d81c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_qok1hz9cy6.bundle",
+            "MainBundleSize": 185148,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_qok1hz9cy9",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_qok1hz9cy9.mp3",
+            "AssetGUID": "0945223bb6f99094c88f4a61610a7035",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_qok1hz9cy9.bundle",
+            "MainBundleSize": 81954,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_u9ouh1",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_u9ouh1.mp3",
+            "AssetGUID": "399c4a0b43ced04448b8119592b61f5c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh1.bundle",
+            "MainBundleSize": 9146,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_u9ouh2",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_u9ouh2.mp3",
+            "AssetGUID": "526335e5f29e64c4bb13393c048e8f08",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh2.bundle",
+            "MainBundleSize": 24126,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_u9ouh3",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_u9ouh3.mp3",
+            "AssetGUID": "89c58ca98a84d3445a23db27ceb30ff1",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh3.bundle",
+            "MainBundleSize": 27383,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_u9ouh4",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_u9ouh4.mp3",
+            "AssetGUID": "e136e081cff60484fba41a53ad05031a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh4.bundle",
+            "MainBundleSize": 35489,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_u9ouh5",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_u9ouh5.mp3",
+            "AssetGUID": "31e43e88c62748449b43049667e3f55c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh5.bundle",
+            "MainBundleSize": 111896,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_u9ouh6",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_u9ouh6.mp3",
+            "AssetGUID": "5491296e102381246b47383cbabaf033",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh6.bundle",
+            "MainBundleSize": 35003,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_u9ouh7",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_u9ouh7.mp3",
+            "AssetGUID": "f0ef8d64a175aed43b956caeb9385b94",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh7.bundle",
+            "MainBundleSize": 45471,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_u9ouh8",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_u9ouh8.mp3",
+            "AssetGUID": "131585447e7daee44b880caf1b1061d0",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh8.bundle",
+            "MainBundleSize": 51071,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_u9ouh9",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_u9ouh9.mp3",
+            "AssetGUID": "54b4d8c9bd3da924a84e9d0627403f08",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh9.bundle",
+            "MainBundleSize": 119760,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_u9ouha",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_u9ouha.mp3",
+            "AssetGUID": "132869f65b569804f888ab63d7049771",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouha.bundle",
+            "MainBundleSize": 22287,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_u9ouhb",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_u9ouhb.mp3",
+            "AssetGUID": "b668d0d12492440488a02e088ad85b4b",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouhb.bundle",
+            "MainBundleSize": 122446,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_u9ouhm",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_u9ouhm.mp3",
+            "AssetGUID": "39008fab9f365f24b9999f78f9971ce4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouhm.bundle",
+            "MainBundleSize": 14954,
+            "DependAssets": []
+        },
+        {
+            "Address": "CommonPKG_u9ouhn",
+            "AssetPath": "Assets/GameRes/fgui/CommonPKG_u9ouhn.mp3",
+            "AssetGUID": "5fd79f7843702894e81d28cd621d9241",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouhn.bundle",
+            "MainBundleSize": 83674,
+            "DependAssets": []
+        },
+        {
+            "Address": "DialogTip_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/DialogTip_atlas0.png",
+            "AssetGUID": "a86bfff2fb2e03249a01c1a3f235790d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_dialogtip_atlas0.bundle",
+            "MainBundleSize": 18128,
+            "DependAssets": []
+        },
+        {
+            "Address": "DialogTip_fui",
+            "AssetPath": "Assets/GameRes/fgui/DialogTip_fui.bytes",
+            "AssetGUID": "c66f9cb95f4718a429d201b9d6922691",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_dialogtip_fui.bundle",
+            "MainBundleSize": 6241,
+            "DependAssets": []
+        },
+        {
+            "Address": "English",
+            "AssetPath": "Assets/GameRes/fgui/English.xml",
+            "AssetGUID": "fbbe0d4cfdf70b840933148c3e4d9115",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_english.bundle",
+            "MainBundleSize": 15936,
+            "DependAssets": []
+        },
+        {
+            "Address": "GMView_fui",
+            "AssetPath": "Assets/GameRes/fgui/GMView_fui.bytes",
+            "AssetGUID": "4820e2fd40ebca44a85116224208a67b",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_gmview_fui.bundle",
+            "MainBundleSize": 3571,
+            "DependAssets": []
+        },
+        {
+            "Address": "Login_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Login_atlas0.png",
+            "AssetGUID": "4cd271c1a9ab42f44b26c7a7722b0556",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_login_atlas0.bundle",
+            "MainBundleSize": 256155,
+            "DependAssets": []
+        },
+        {
+            "Address": "Login_fui",
+            "AssetPath": "Assets/GameRes/fgui/Login_fui.bytes",
+            "AssetGUID": "b6abeccb52d98f04bb3c0ff5cdc6a109",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_login_fui.bundle",
+            "MainBundleSize": 13445,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_01_atlas_ljwt1ygcgb5",
+            "AssetPath": "Assets/GameRes/fgui/Map_01_atlas_ljwt1ygcgb5.png",
+            "AssetGUID": "3c1ce4aaf501a5f4b8b62fd6d4dac904",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_01_atlas_ljwt1ygcgb5.bundle",
+            "MainBundleSize": 249023,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_01_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_01_fui.bytes",
+            "AssetGUID": "53d490d5191b5ed4daa09231249f6ef4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_01_fui.bundle",
+            "MainBundleSize": 1355,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_02_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_02_atlas0.png",
+            "AssetGUID": "377d266b98e39064ba4219b4e9f220a7",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_02_atlas0.bundle",
+            "MainBundleSize": 385028,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_02_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_02_fui.bytes",
+            "AssetGUID": "482d043a03b45844190ff1707ba1772e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_02_fui.bundle",
+            "MainBundleSize": 1341,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_03_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_03_atlas0.png",
+            "AssetGUID": "9b10dd95b5b933347b5777b66627088d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_03_atlas0.bundle",
+            "MainBundleSize": 366924,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_03_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_03_fui.bytes",
+            "AssetGUID": "93ca9cd14f509b4428632a881e6e65a9",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_03_fui.bundle",
+            "MainBundleSize": 1341,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_04_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_04_atlas0.png",
+            "AssetGUID": "f7c3ac58b27ab54469397b22a790c0ce",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_04_atlas0.bundle",
+            "MainBundleSize": 351379,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_04_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_04_fui.bytes",
+            "AssetGUID": "5853362fa942069469e011f91bf85c7e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_04_fui.bundle",
+            "MainBundleSize": 1355,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_05_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_05_atlas0.png",
+            "AssetGUID": "ddc498aca9c99f94692ab6e447fc2cca",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_05_atlas0.bundle",
+            "MainBundleSize": 340458,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_05_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_05_fui.bytes",
+            "AssetGUID": "d8fb83028c5f3f34ba9d2dd587aec08f",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_05_fui.bundle",
+            "MainBundleSize": 1341,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_06_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_06_atlas0.png",
+            "AssetGUID": "73a7d5fd88426f44787327e9e2ccb095",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_06_atlas0.bundle",
+            "MainBundleSize": 349829,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_06_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_06_fui.bytes",
+            "AssetGUID": "c11279fa8d29e9e44b3a64dcc9ca80b9",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_06_fui.bundle",
+            "MainBundleSize": 1341,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_07_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_07_atlas0.png",
+            "AssetGUID": "e3ed6408129db9e41baa5656592895a8",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_07_atlas0.bundle",
+            "MainBundleSize": 335217,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_07_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_07_fui.bytes",
+            "AssetGUID": "b4e247f3a8895b044b5710756d377c87",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_07_fui.bundle",
+            "MainBundleSize": 1355,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_08_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_08_atlas0.png",
+            "AssetGUID": "6fd4705a99d020d48bf2e6afbc128b8b",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_08_atlas0.bundle",
+            "MainBundleSize": 337217,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_08_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_08_fui.bytes",
+            "AssetGUID": "93cfb8da7c30cb741a0eeba65c2ca5c7",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_08_fui.bundle",
+            "MainBundleSize": 1341,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_09_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_09_atlas0.png",
+            "AssetGUID": "2dad8fb6878ae614f8552411822e41e1",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_09_atlas0.bundle",
+            "MainBundleSize": 345892,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_09_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_09_fui.bytes",
+            "AssetGUID": "cb1c91229fc01f54b9409f972d010063",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_09_fui.bundle",
+            "MainBundleSize": 1355,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_10_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_10_atlas0.png",
+            "AssetGUID": "ac9863221c9ac434685e642c9b1e0aa9",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_10_atlas0.bundle",
+            "MainBundleSize": 375626,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_10_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_10_fui.bytes",
+            "AssetGUID": "f6b878244c9f56343882628dc192fdeb",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_10_fui.bundle",
+            "MainBundleSize": 1355,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_11_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_11_atlas0.png",
+            "AssetGUID": "41be637626d13ce4ab0900c3ae78cf66",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_11_atlas0.bundle",
+            "MainBundleSize": 358670,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_11_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_11_fui.bytes",
+            "AssetGUID": "e9f23f18d1e82c248bf368dfd1d558f6",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_11_fui.bundle",
+            "MainBundleSize": 1340,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_12_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_12_atlas0.png",
+            "AssetGUID": "9c1293a6c4ecea348bb65ad3d8f7194e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_12_atlas0.bundle",
+            "MainBundleSize": 348250,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_12_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_12_fui.bytes",
+            "AssetGUID": "57ac078580d1839439217a365ea7f579",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_12_fui.bundle",
+            "MainBundleSize": 1341,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_13_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_13_atlas0.png",
+            "AssetGUID": "33209335fd435fd429bba93c47d8745a",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_13_atlas0.bundle",
+            "MainBundleSize": 358774,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_13_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_13_fui.bytes",
+            "AssetGUID": "cf6fa6432c8198545a34cb8cf69af17e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_13_fui.bundle",
+            "MainBundleSize": 1353,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_14_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_14_atlas0.png",
+            "AssetGUID": "2eea2a56d2f70974b9e8bf31532423c3",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_14_atlas0.bundle",
+            "MainBundleSize": 366732,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_14_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_14_fui.bytes",
+            "AssetGUID": "508714116b70c1142b8e7ce428da2576",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_14_fui.bundle",
+            "MainBundleSize": 1341,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_15_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_15_atlas0.png",
+            "AssetGUID": "f64b45b7e99a4de4c90e6421ea4f8b5f",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_15_atlas0.bundle",
+            "MainBundleSize": 369001,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_15_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_15_fui.bytes",
+            "AssetGUID": "edc7dcf02b326334a8883694343b368c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_15_fui.bundle",
+            "MainBundleSize": 1341,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_16_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_16_atlas0.png",
+            "AssetGUID": "4b82e6df42ab97e4ea1590731f822f4c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_16_atlas0.bundle",
+            "MainBundleSize": 336099,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_16_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_16_fui.bytes",
+            "AssetGUID": "85341ca98db0901479e184563482394d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_16_fui.bundle",
+            "MainBundleSize": 1355,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_17_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_17_atlas0.png",
+            "AssetGUID": "e640c689b1a455644b3d39f088f1b1df",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_17_atlas0.bundle",
+            "MainBundleSize": 316927,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_17_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_17_fui.bytes",
+            "AssetGUID": "d5de3c7f535191444b1cac57cf2433e4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_17_fui.bundle",
+            "MainBundleSize": 1341,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_18_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_18_atlas0.png",
+            "AssetGUID": "c4947da26210c8b4c97b46177a5a693e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_18_atlas0.bundle",
+            "MainBundleSize": 348202,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_18_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_18_fui.bytes",
+            "AssetGUID": "4c51802ef0e3ff64fb4ad36d0229d3f7",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_18_fui.bundle",
+            "MainBundleSize": 1355,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_19_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_19_atlas0.png",
+            "AssetGUID": "7b1dce94aa8205d45af44043fd2aebe7",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_19_atlas0.bundle",
+            "MainBundleSize": 360266,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_19_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_19_fui.bytes",
+            "AssetGUID": "146243b3bdfbd8d43a8b037539ab2314",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_19_fui.bundle",
+            "MainBundleSize": 1355,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_20_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_20_atlas0.png",
+            "AssetGUID": "3b5504045ddf4a947aed27c7505eff7f",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_20_atlas0.bundle",
+            "MainBundleSize": 362805,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_20_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_20_fui.bytes",
+            "AssetGUID": "f2e79c5c4856fa749bac677ff533ade1",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_20_fui.bundle",
+            "MainBundleSize": 1341,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_21_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_21_atlas0.png",
+            "AssetGUID": "4733a7cb1347f5d4a82bfbdf5c0b9c82",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_21_atlas0.bundle",
+            "MainBundleSize": 349034,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_21_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_21_fui.bytes",
+            "AssetGUID": "b91cc67f8b6161649aac3b2bf05bc8e1",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_21_fui.bundle",
+            "MainBundleSize": 1354,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_22_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_22_atlas0.png",
+            "AssetGUID": "40699403f75c60a43bd0e4cfff54cab0",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_22_atlas0.bundle",
+            "MainBundleSize": 375341,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_22_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_22_fui.bytes",
+            "AssetGUID": "de946c65d36690d40baa96bbd8ab1f8e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_22_fui.bundle",
+            "MainBundleSize": 1341,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_23_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_23_atlas0.png",
+            "AssetGUID": "98c634d3f5931c146a745d43494f4c85",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_23_atlas0.bundle",
+            "MainBundleSize": 364940,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_23_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_23_fui.bytes",
+            "AssetGUID": "7372fe26a1a1633499af941a5aa016ab",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_23_fui.bundle",
+            "MainBundleSize": 1341,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_24_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/Map_24_atlas0.png",
+            "AssetGUID": "37543187d02f0644db2670d05995c3ed",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_24_atlas0.bundle",
+            "MainBundleSize": 365548,
+            "DependAssets": []
+        },
+        {
+            "Address": "Map_24_fui",
+            "AssetPath": "Assets/GameRes/fgui/Map_24_fui.bytes",
+            "AssetGUID": "dc5d597abef8ed741a1ed1c10d44a90e",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_map_24_fui.bundle",
+            "MainBundleSize": 1341,
+            "DependAssets": []
+        },
+        {
+            "Address": "PuzzlePKG_atlas0",
+            "AssetPath": "Assets/GameRes/fgui/PuzzlePKG_atlas0.png",
+            "AssetGUID": "d9bfffdc10cb00b4eac34e1ea0942f3c",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_puzzlepkg_atlas0.bundle",
+            "MainBundleSize": 33132,
+            "DependAssets": []
+        },
+        {
+            "Address": "PuzzlePKG_fui",
+            "AssetPath": "Assets/GameRes/fgui/PuzzlePKG_fui.bytes",
+            "AssetGUID": "8fc4e870eebdc584ca6342302cd616e9",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_puzzlepkg_fui.bundle",
+            "MainBundleSize": 7175,
+            "DependAssets": []
+        },
+        {
+            "Address": "SettingPKG_fui",
+            "AssetPath": "Assets/GameRes/fgui/SettingPKG_fui.bytes",
+            "AssetGUID": "6b2df4556f0fc0c4c9df48a85a9dc0e4",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_settingpkg_fui.bundle",
+            "MainBundleSize": 5035,
+            "DependAssets": []
+        },
+        {
+            "Address": "SimChinese",
+            "AssetPath": "Assets/GameRes/fgui/SimChinese.xml",
+            "AssetGUID": "e28c7de92e9a81a45be108c9a2dbf7d7",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_simchinese.bundle",
+            "MainBundleSize": 21307,
+            "DependAssets": []
+        },
+        {
+            "Address": "source_bold",
+            "AssetPath": "Assets/GameRes/fgui/source_bold.ttf",
+            "AssetGUID": "8875e1f5e6be8e641b2fa0dce6168198",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_source_bold.bundle",
+            "MainBundleSize": 3802477,
+            "DependAssets": []
+        },
+        {
+            "Address": "TraChinese",
+            "AssetPath": "Assets/GameRes/fgui/TraChinese.xml",
+            "AssetGUID": "c07d869bba760e242936912f8fe405ad",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_fgui_trachinese.bundle",
+            "MainBundleSize": 15964,
+            "DependAssets": []
+        },
+        {
+            "Address": "Save_1002",
+            "AssetPath": "Assets/GameScript/HotUpdate/Config/json/Save_1002.json",
+            "AssetGUID": "5f0cec7725477c3419427eecb3c06dc0",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gamescript_hotupdate_config_json.bundle",
+            "MainBundleSize": 1445,
+            "DependAssets": []
+        },
+        {
+            "Address": "VideoConfig",
+            "AssetPath": "Assets/GameScript/HotUpdate/Config/json/VideoConfig.json",
+            "AssetGUID": "8892ce0107fb847438f46e83700d1d09",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gamescript_hotupdate_config_json.bundle",
+            "MainBundleSize": 1445,
+            "DependAssets": []
+        },
+        {
+            "Address": "tbcfg_language",
+            "AssetPath": "Assets/GameScript/HotUpdate/Config/lubanBytes/tbcfg_language.bytes",
+            "AssetGUID": "683d6b628df8eb84b9760e3efbd0ad10",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gamescript_hotupdate_config_lubanbytes.bundle",
+            "MainBundleSize": 17240,
+            "DependAssets": []
+        },
+        {
+            "Address": "tbeffectconfig",
+            "AssetPath": "Assets/GameScript/HotUpdate/Config/lubanBytes/tbeffectconfig.bytes",
+            "AssetGUID": "45bb2fbd7a16e3c4d8ad84d3278dcd4d",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gamescript_hotupdate_config_lubanbytes.bundle",
+            "MainBundleSize": 17240,
+            "DependAssets": []
+        },
+        {
+            "Address": "tbgmconfig",
+            "AssetPath": "Assets/GameScript/HotUpdate/Config/lubanBytes/tbgmconfig.bytes",
+            "AssetGUID": "c50feba799886fa4e8e6041d4348a514",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gamescript_hotupdate_config_lubanbytes.bundle",
+            "MainBundleSize": 17240,
+            "DependAssets": []
+        },
+        {
+            "Address": "tbpuzzleconfig",
+            "AssetPath": "Assets/GameScript/HotUpdate/Config/lubanBytes/tbpuzzleconfig.bytes",
+            "AssetGUID": "9047d5c89cef4bf4d911750cb3620161",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gamescript_hotupdate_config_lubanbytes.bundle",
+            "MainBundleSize": 17240,
+            "DependAssets": []
+        },
+        {
+            "Address": "tbpuzzlemapconfig",
+            "AssetPath": "Assets/GameScript/HotUpdate/Config/lubanBytes/tbpuzzlemapconfig.bytes",
+            "AssetGUID": "ffbc9da9dc9144a4497249bf644e41b0",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gamescript_hotupdate_config_lubanbytes.bundle",
+            "MainBundleSize": 17240,
+            "DependAssets": []
+        },
+        {
+            "Address": "tbscript_language",
+            "AssetPath": "Assets/GameScript/HotUpdate/Config/lubanBytes/tbscript_language.bytes",
+            "AssetGUID": "42ddc9cf18240b941b84b627c7b35b8b",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gamescript_hotupdate_config_lubanbytes.bundle",
+            "MainBundleSize": 17240,
+            "DependAssets": []
+        },
+        {
+            "Address": "tbsoundconfig",
+            "AssetPath": "Assets/GameScript/HotUpdate/Config/lubanBytes/tbsoundconfig.bytes",
+            "AssetGUID": "82101fd07b39126428f59fee38a0f872",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gamescript_hotupdate_config_lubanbytes.bundle",
+            "MainBundleSize": 17240,
+            "DependAssets": []
+        },
+        {
+            "Address": "tbtiptextconfig",
+            "AssetPath": "Assets/GameScript/HotUpdate/Config/lubanBytes/tbtiptextconfig.bytes",
+            "AssetGUID": "b00bdaa1df8e8ba429d1813f15b66150",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gamescript_hotupdate_config_lubanbytes.bundle",
+            "MainBundleSize": 17240,
+            "DependAssets": []
+        },
+        {
+            "Address": "MapBlockUnit",
+            "AssetPath": "Assets/GameRes/prefab/MapBlockUnit.prefab",
+            "AssetGUID": "bf63d9a4ce097534182699209e2f2a78",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_prefab.bundle",
+            "MainBundleSize": 5070,
+            "DependAssets": []
+        },
+        {
+            "Address": "tilePre",
+            "AssetPath": "Assets/GameRes/prefab/tilePre.prefab",
+            "AssetGUID": "19131b55b91feba43b11413bec6622e2",
+            "AssetTags": [],
+            "MainBundleName": "defaultpackage_assets_gameres_prefab.bundle",
+            "MainBundleSize": 5070,
+            "DependAssets": []
+        }
+    ],
+    "BundleInfos": [
+        {
+            "BundleName": "defaultpackage_assets_gameres_effect.bundle",
+            "FileName": "810d19c6fdbd3a0a8d1dcd8b3d5d8ba0.bundle",
+            "FileHash": "810d19c6fdbd3a0a8d1dcd8b3d5d8ba0",
+            "FileCRC": "9159ea58",
+            "FileSize": 592563,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_unityshaders.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/Effect/TX_BYCH_Skill.prefab",
+                "Assets/GameRes/Effect/TX_BYLBH_Skill1_Hit.prefab",
+                "Assets/GameRes/Effect/UI_renwulan_1.prefab",
+                "Assets/GameRes/Effect/UI_renwulan_2.prefab",
+                "Assets/GameRes/Effect/UI_zhuangbeiFR.prefab",
+                "Assets/GameArt/Effect/part_00087.png",
+                "Assets/GameArt/Effect/djyc_Qiliu_13.mat",
+                "Assets/GameArt/Effect/smoke01.png",
+                "Assets/GameArt/Effect/yan.png",
+                "Assets/GameArt/Effect/glow01.png",
+                "Assets/GameArt/Effect/DX_Skill1_011.mat",
+                "Assets/GameArt/Effect/FX_dx_spit_dcq01.png",
+                "Assets/GameArt/Effect/dmg_skill1_23.mat",
+                "Assets/GameArt/Effect/quan01.png",
+                "Assets/GameArt/Effect/smoke_00063.png",
+                "Assets/GameArt/Effect/Tex_Noise_08.png",
+                "Assets/GameArt/Effect/Fx_texture_0817.png",
+                "Assets/GameArt/Effect/quan01.mat",
+                "Assets/GameArt/Effect/Fx_katong_0307.png",
+                "Assets/GameArt/Effect/dmg_skill1_24.mat",
+                "Assets/GameArt/Effect/kugua_skill_14.mat",
+                "Assets/GameArt/Effect/Glow_02_01.png",
+                "Assets/GameArt/Effect/xulie_guang01.png",
+                "Assets/GameArt/Effect/lanmei_skill_006.mat",
+                "Assets/GameArt/Effect/ng_skill_13.mat",
+                "Assets/GameArt/Effect/TX_UI_renwulan.anim",
+                "Assets/GameArt/Effect/bk_01.FBX",
+                "Assets/GameArt/Effect/bl_skill_21.mat",
+                "Assets/GameArt/Effect/biankuang_12.png",
+                "Assets/GameArt/Effect/bk_02.mat",
+                "Assets/GameArt/Effect/SLG_UI_012_01.png",
+                "Assets/GameArt/Effect/TX_UI_renwulan.controller",
+                "Assets/GameArt/Effect/xulie_suipian01.png",
+                "Assets/GameArt/Effect/baowu_56.mat",
+                "Assets/GameArt/Effect/FX_shuye_001.png",
+                "Assets/GameArt/Effect/bk_04.mat",
+                "Assets/GameArt/Effect/quan_04.png",
+                "Assets/GameArt/Effect/equip_img_di06.png",
+                "Assets/GameArt/Effect/SLG_glow_01.png",
+                "Assets/GameArt/Effect/tuowei.png",
+                "Assets/GameArt/Effect/TX_mogu_lizi1.mat",
+                "Assets/GameArt/Effect/xx02.png",
+                "Assets/GameArt/Effect/zbqh_05.mat",
+                "Assets/GameArt/Effect/TX_UI_jinengshengji_lizi.mat",
+                "Assets/GameArt/Effect/dds_18.mat",
+                "Assets/GameArt/Effect/TX_BLB_attack17.mat"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_audio.bundle",
+            "FileName": "fed8860ff5db3cca961c7803a3a387e6.bundle",
+            "FileHash": "fed8860ff5db3cca961c7803a3a387e6",
+            "FileCRC": "4b110a70",
+            "FileSize": 290218,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/Audio/music_background.wav",
+                "Assets/GameRes/Audio/sound_explosion_asteroid.wav",
+                "Assets/GameRes/Audio/sound_explosion_enemy.wav",
+                "Assets/GameRes/Audio/sound_explosion_player.wav",
+                "Assets/GameRes/Audio/sound_weapon_enemy.wav",
+                "Assets/GameRes/Audio/sound_weapon_player.wav"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_unityshaders.bundle",
+            "FileName": "ab013cb6ac70ea94e8020d8ce9893203.bundle",
+            "FileHash": "ab013cb6ac70ea94e8020d8ce9893203",
+            "FileCRC": "057f21b6",
+            "FileSize": 136485,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameArt/ShaderVariants/MyShaderVariants.shadervariants",
+                "Assets/GameArt/Shader/Particle_Additive.shader",
+                "Assets/GameArt/ShaderVariants/Particle_FXMain.shader",
+                "Assets/GameArt/ShaderVariants/particle_blended.shader"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_scene_init_reflectionprobe-0.bundle",
+            "FileName": "85ed92acd76200bf7ce78885a734848b.bundle",
+            "FileHash": "85ed92acd76200bf7ce78885a734848b",
+            "FileCRC": "7cc92cd5",
+            "FileSize": 4231,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/Scene/Init/ReflectionProbe-0.exr"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_scene_init.bundle",
+            "FileName": "36ffbcb04e8bee1a6d546ab7088ad824.bundle",
+            "FileHash": "36ffbcb04e8bee1a6d546ab7088ad824",
+            "FileCRC": "ce169609",
+            "FileSize": 94225,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [
+                "defaultpackage_assets_gameres_scene_init_reflectionprobe-0.bundle"
+            ],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/Scene/Init.unity",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/error_icon.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/date.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/memory.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/back.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/Save.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/UnityIcon.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/user.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/ComputerIcon.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/button_active.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/odd_log.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/timer_1.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/graphicCard.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/software.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/log_icon.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/selected.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/search.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/reporterScrollerSkin.guiskin",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/warning_icon.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/info.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/fps.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/copy.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/buildFrom.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/collapse.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/even_log.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/bar.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/clear.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/clearOnSceneLoaded.png",
+                "Assets/GameScript/AOT/Unity-Logs-Viewer/Reporter/Images/close.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_scene_test.bundle",
+            "FileName": "5fafa0ea52b6c9991279ec7a39488eaa.bundle",
+            "FileHash": "5fafa0ea52b6c9991279ec7a39488eaa",
+            "FileCRC": "4d004647",
+            "FileSize": 63297,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/Scene/test.unity"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_atlas0.bundle",
+            "FileName": "32ce4fb404fc441af3f233c1d816c2c6.bundle",
+            "FileHash": "32ce4fb404fc441af3f233c1d816c2c6",
+            "FileCRC": "85f026cc",
+            "FileSize": 369948,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_fui.bundle",
+            "FileName": "06ae85243548307b8aa824d065cd11df.bundle",
+            "FileHash": "06ae85243548307b8aa824d065cd11df",
+            "FileCRC": "dbfbf1ed",
+            "FileSize": 33464,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_qok1hz9cy6.bundle",
+            "FileName": "a9be4dd9976b683312610e715a5e558e.bundle",
+            "FileHash": "a9be4dd9976b683312610e715a5e558e",
+            "FileCRC": "885857d8",
+            "FileSize": 185148,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_qok1hz9cy6.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_qok1hz9cy9.bundle",
+            "FileName": "c072793a5b96fd1ee64dc76b1a25ceb8.bundle",
+            "FileHash": "c072793a5b96fd1ee64dc76b1a25ceb8",
+            "FileCRC": "17226365",
+            "FileSize": 81954,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_qok1hz9cy9.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh1.bundle",
+            "FileName": "bcddb942944cd8eeec18d4515c589064.bundle",
+            "FileHash": "bcddb942944cd8eeec18d4515c589064",
+            "FileCRC": "e79f642e",
+            "FileSize": 9146,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_u9ouh1.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh2.bundle",
+            "FileName": "e27730cce39f343e7cbd9bb750f0dfde.bundle",
+            "FileHash": "e27730cce39f343e7cbd9bb750f0dfde",
+            "FileCRC": "e22fe611",
+            "FileSize": 24126,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_u9ouh2.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh3.bundle",
+            "FileName": "7a155d0d947790a6e6e42179d1ed9e96.bundle",
+            "FileHash": "7a155d0d947790a6e6e42179d1ed9e96",
+            "FileCRC": "87fed9b4",
+            "FileSize": 27383,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_u9ouh3.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh4.bundle",
+            "FileName": "8bb741cf5daaf4b85cad377efcf5c5f1.bundle",
+            "FileHash": "8bb741cf5daaf4b85cad377efcf5c5f1",
+            "FileCRC": "10a176fc",
+            "FileSize": 35489,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_u9ouh4.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh5.bundle",
+            "FileName": "48c17691f79eef4c2e88874ebe1243f5.bundle",
+            "FileHash": "48c17691f79eef4c2e88874ebe1243f5",
+            "FileCRC": "34cdac57",
+            "FileSize": 111896,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_u9ouh5.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh6.bundle",
+            "FileName": "f62db7142e8b0ff97cf50481616cd329.bundle",
+            "FileHash": "f62db7142e8b0ff97cf50481616cd329",
+            "FileCRC": "dea57655",
+            "FileSize": 35003,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_u9ouh6.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh7.bundle",
+            "FileName": "b896c1accc3e14792054a72380ed91d6.bundle",
+            "FileHash": "b896c1accc3e14792054a72380ed91d6",
+            "FileCRC": "e8ee0974",
+            "FileSize": 45471,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_u9ouh7.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh8.bundle",
+            "FileName": "3e8e08987f3630a55ddf7ccfe31d6002.bundle",
+            "FileHash": "3e8e08987f3630a55ddf7ccfe31d6002",
+            "FileCRC": "e97737ff",
+            "FileSize": 51071,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_u9ouh8.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouh9.bundle",
+            "FileName": "22abb5091c7836050ff55b7f446860af.bundle",
+            "FileHash": "22abb5091c7836050ff55b7f446860af",
+            "FileCRC": "dc16a13c",
+            "FileSize": 119760,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_u9ouh9.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouha.bundle",
+            "FileName": "07301aca65dee603b49534f8103332b9.bundle",
+            "FileHash": "07301aca65dee603b49534f8103332b9",
+            "FileCRC": "aec8d684",
+            "FileSize": 22287,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_u9ouha.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouhb.bundle",
+            "FileName": "649efaf416678a64183066bccad31d8a.bundle",
+            "FileHash": "649efaf416678a64183066bccad31d8a",
+            "FileCRC": "df511c01",
+            "FileSize": 122446,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_u9ouhb.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouhm.bundle",
+            "FileName": "865e16eee952c91f4fe5646be9da028d.bundle",
+            "FileHash": "865e16eee952c91f4fe5646be9da028d",
+            "FileCRC": "aa387b23",
+            "FileSize": 14954,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_u9ouhm.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_commonpkg_u9ouhn.bundle",
+            "FileName": "60faa64b86928b0fe163e61b91c7a14a.bundle",
+            "FileHash": "60faa64b86928b0fe163e61b91c7a14a",
+            "FileCRC": "fc0af6d8",
+            "FileSize": 83674,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/CommonPKG_u9ouhn.mp3"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_dialogtip_atlas0.bundle",
+            "FileName": "93a917153e53775daabe7b0cfb509e77.bundle",
+            "FileHash": "93a917153e53775daabe7b0cfb509e77",
+            "FileCRC": "da4cbaf3",
+            "FileSize": 18128,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/DialogTip_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_dialogtip_fui.bundle",
+            "FileName": "4906ba64e594462c391f87e004fcf64c.bundle",
+            "FileHash": "4906ba64e594462c391f87e004fcf64c",
+            "FileCRC": "03098ea0",
+            "FileSize": 6241,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/DialogTip_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_english.bundle",
+            "FileName": "a241117a08e0f56a0cd7511299cb1601.bundle",
+            "FileHash": "a241117a08e0f56a0cd7511299cb1601",
+            "FileCRC": "cdbe4cb8",
+            "FileSize": 15936,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/English.xml"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_gmview_fui.bundle",
+            "FileName": "6d144a387a58273650fc765e90f6ffaa.bundle",
+            "FileHash": "6d144a387a58273650fc765e90f6ffaa",
+            "FileCRC": "67da0956",
+            "FileSize": 3571,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/GMView_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_login_atlas0.bundle",
+            "FileName": "eff8c146ee70587a8f7ffaf35432fb43.bundle",
+            "FileHash": "eff8c146ee70587a8f7ffaf35432fb43",
+            "FileCRC": "e61435b5",
+            "FileSize": 256155,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Login_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_login_fui.bundle",
+            "FileName": "b85fd9255df99faf49f4f7adf82e47af.bundle",
+            "FileHash": "b85fd9255df99faf49f4f7adf82e47af",
+            "FileCRC": "d6569e8e",
+            "FileSize": 13445,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Login_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_01_atlas_ljwt1ygcgb5.bundle",
+            "FileName": "1f02562abe242197fd657d0ddd0b03e7.bundle",
+            "FileHash": "1f02562abe242197fd657d0ddd0b03e7",
+            "FileCRC": "2abfde5a",
+            "FileSize": 249023,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_01_atlas_ljwt1ygcgb5.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_01_fui.bundle",
+            "FileName": "d2301d8c62cf8e68f0cbfbea1eee280b.bundle",
+            "FileHash": "d2301d8c62cf8e68f0cbfbea1eee280b",
+            "FileCRC": "3eac914e",
+            "FileSize": 1355,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_01_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_02_atlas0.bundle",
+            "FileName": "e7570996eafe4c1e5eed292d7bd4825b.bundle",
+            "FileHash": "e7570996eafe4c1e5eed292d7bd4825b",
+            "FileCRC": "57eca6d3",
+            "FileSize": 385028,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_02_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_02_fui.bundle",
+            "FileName": "b350c59f488e6b251226430d69b9e6c0.bundle",
+            "FileHash": "b350c59f488e6b251226430d69b9e6c0",
+            "FileCRC": "66e46625",
+            "FileSize": 1341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_02_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_03_atlas0.bundle",
+            "FileName": "0741c0389dee3dc46bd74c4d5ec78b9b.bundle",
+            "FileHash": "0741c0389dee3dc46bd74c4d5ec78b9b",
+            "FileCRC": "54f7f6af",
+            "FileSize": 366924,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_03_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_03_fui.bundle",
+            "FileName": "4632c2d2df1e26c00adfb7b1d6b2345e.bundle",
+            "FileHash": "4632c2d2df1e26c00adfb7b1d6b2345e",
+            "FileCRC": "1589329f",
+            "FileSize": 1341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_03_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_04_atlas0.bundle",
+            "FileName": "3ff9b8d5c921a4a758038e5ec2118529.bundle",
+            "FileHash": "3ff9b8d5c921a4a758038e5ec2118529",
+            "FileCRC": "4f1020c1",
+            "FileSize": 351379,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_04_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_04_fui.bundle",
+            "FileName": "824396e9396fcce12f56f51be03e0d0c.bundle",
+            "FileHash": "824396e9396fcce12f56f51be03e0d0c",
+            "FileCRC": "736b546e",
+            "FileSize": 1355,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_04_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_05_atlas0.bundle",
+            "FileName": "b2b13c7566824ba29f7f4ab1e71411d5.bundle",
+            "FileHash": "b2b13c7566824ba29f7f4ab1e71411d5",
+            "FileCRC": "e4923313",
+            "FileSize": 340458,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_05_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_05_fui.bundle",
+            "FileName": "3d0a92d6716ceaa3581159698b522402.bundle",
+            "FileHash": "3d0a92d6716ceaa3581159698b522402",
+            "FileCRC": "e11bec45",
+            "FileSize": 1341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_05_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_06_atlas0.bundle",
+            "FileName": "623b67cbd163de025b2f62f776366863.bundle",
+            "FileHash": "623b67cbd163de025b2f62f776366863",
+            "FileCRC": "c1d906ca",
+            "FileSize": 349829,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_06_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_06_fui.bundle",
+            "FileName": "dac19928d6b6754783aa311fef4cf39e.bundle",
+            "FileHash": "dac19928d6b6754783aa311fef4cf39e",
+            "FileCRC": "1fcc532c",
+            "FileSize": 1341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_06_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_07_atlas0.bundle",
+            "FileName": "3a24e043f5a24d301de51430ee4907a8.bundle",
+            "FileHash": "3a24e043f5a24d301de51430ee4907a8",
+            "FileCRC": "d6fec0d8",
+            "FileSize": 335217,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_07_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_07_fui.bundle",
+            "FileName": "621c1c496d601d5cedd814675e79756b.bundle",
+            "FileHash": "621c1c496d601d5cedd814675e79756b",
+            "FileCRC": "f9b7850c",
+            "FileSize": 1355,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_07_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_08_atlas0.bundle",
+            "FileName": "89299989776cc107f578064bbe26b05c.bundle",
+            "FileHash": "89299989776cc107f578064bbe26b05c",
+            "FileCRC": "77d476fa",
+            "FileSize": 337217,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_08_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_08_fui.bundle",
+            "FileName": "328c5d5d9b0be1fdf5582e06bb61edbc.bundle",
+            "FileHash": "328c5d5d9b0be1fdf5582e06bb61edbc",
+            "FileCRC": "34147c71",
+            "FileSize": 1341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_08_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_09_atlas0.bundle",
+            "FileName": "b19088a2783ce4567e536ed5538c5943.bundle",
+            "FileHash": "b19088a2783ce4567e536ed5538c5943",
+            "FileCRC": "3cce0d78",
+            "FileSize": 345892,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_09_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_09_fui.bundle",
+            "FileName": "a211058ceea0fb8176961b95f2c29f18.bundle",
+            "FileHash": "a211058ceea0fb8176961b95f2c29f18",
+            "FileCRC": "eaa892c6",
+            "FileSize": 1355,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_09_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_10_atlas0.bundle",
+            "FileName": "d70a409c9bd6345c1b7405853b938ec8.bundle",
+            "FileHash": "d70a409c9bd6345c1b7405853b938ec8",
+            "FileCRC": "34203b32",
+            "FileSize": 375626,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_10_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_10_fui.bundle",
+            "FileName": "9cce36b1a4283f1fa5ea7135bf94d1be.bundle",
+            "FileHash": "9cce36b1a4283f1fa5ea7135bf94d1be",
+            "FileCRC": "452e704a",
+            "FileSize": 1355,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_10_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_11_atlas0.bundle",
+            "FileName": "5bee8c8ff3fc309ccb6e587da088a428.bundle",
+            "FileHash": "5bee8c8ff3fc309ccb6e587da088a428",
+            "FileCRC": "ae63bff9",
+            "FileSize": 358670,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_11_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_11_fui.bundle",
+            "FileName": "16e7fb502d276ada2e0209b469db2733.bundle",
+            "FileHash": "16e7fb502d276ada2e0209b469db2733",
+            "FileCRC": "93325e27",
+            "FileSize": 1340,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_11_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_12_atlas0.bundle",
+            "FileName": "876fb57475d58933bbbe29396b87feed.bundle",
+            "FileHash": "876fb57475d58933bbbe29396b87feed",
+            "FileCRC": "8d289db8",
+            "FileSize": 348250,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_12_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_12_fui.bundle",
+            "FileName": "3256064f2c84e473bbda54e075ffb9ec.bundle",
+            "FileHash": "3256064f2c84e473bbda54e075ffb9ec",
+            "FileCRC": "28c33a63",
+            "FileSize": 1341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_12_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_13_atlas0.bundle",
+            "FileName": "60cf005f1119d91963276ffa2fcaf6e2.bundle",
+            "FileHash": "60cf005f1119d91963276ffa2fcaf6e2",
+            "FileCRC": "83cda47e",
+            "FileSize": 358774,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_13_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_13_fui.bundle",
+            "FileName": "d8f511d9003b06bd6f4adf563995a44a.bundle",
+            "FileHash": "d8f511d9003b06bd6f4adf563995a44a",
+            "FileCRC": "86351864",
+            "FileSize": 1353,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_13_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_14_atlas0.bundle",
+            "FileName": "653273f2ad2a24594fc0aff95920ab6c.bundle",
+            "FileHash": "653273f2ad2a24594fc0aff95920ab6c",
+            "FileCRC": "cb737b28",
+            "FileSize": 366732,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_14_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_14_fui.bundle",
+            "FileName": "7e503fd924af419423731afbfcba9368.bundle",
+            "FileHash": "7e503fd924af419423731afbfcba9368",
+            "FileCRC": "a9736cd0",
+            "FileSize": 1341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_14_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_15_atlas0.bundle",
+            "FileName": "74a0fea9afb46c7f0b993ac5c4470e00.bundle",
+            "FileHash": "74a0fea9afb46c7f0b993ac5c4470e00",
+            "FileCRC": "ffb75101",
+            "FileSize": 369001,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_15_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_15_fui.bundle",
+            "FileName": "f8bcdfdec68a88ebae5263349188193c.bundle",
+            "FileHash": "f8bcdfdec68a88ebae5263349188193c",
+            "FileCRC": "3818eb36",
+            "FileSize": 1341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_15_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_16_atlas0.bundle",
+            "FileName": "e9832a8e178d88e7be6ff76951d1a3df.bundle",
+            "FileHash": "e9832a8e178d88e7be6ff76951d1a3df",
+            "FileCRC": "51ce0bd2",
+            "FileSize": 336099,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_16_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_16_fui.bundle",
+            "FileName": "44873eb319776da938f867561effb323.bundle",
+            "FileHash": "44873eb319776da938f867561effb323",
+            "FileCRC": "a8ccbbf3",
+            "FileSize": 1355,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_16_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_17_atlas0.bundle",
+            "FileName": "7af1956c3645bebf1cd8b322bfb25a59.bundle",
+            "FileHash": "7af1956c3645bebf1cd8b322bfb25a59",
+            "FileCRC": "2987cced",
+            "FileSize": 316927,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_17_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_17_fui.bundle",
+            "FileName": "2db414748b72972e40edebaba638e328.bundle",
+            "FileHash": "2db414748b72972e40edebaba638e328",
+            "FileCRC": "e2d0e2a6",
+            "FileSize": 1341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_17_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_18_atlas0.bundle",
+            "FileName": "3c9883dd999074d6aca6b25bbabc296c.bundle",
+            "FileHash": "3c9883dd999074d6aca6b25bbabc296c",
+            "FileCRC": "e2f51587",
+            "FileSize": 348202,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_18_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_18_fui.bundle",
+            "FileName": "26ee63a2d4d2761fb998e069e93c1404.bundle",
+            "FileHash": "26ee63a2d4d2761fb998e069e93c1404",
+            "FileCRC": "dc426319",
+            "FileSize": 1355,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_18_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_19_atlas0.bundle",
+            "FileName": "fbe24a15c6ab8dc921f8eb585c9de06e.bundle",
+            "FileHash": "fbe24a15c6ab8dc921f8eb585c9de06e",
+            "FileCRC": "a70204e8",
+            "FileSize": 360266,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_19_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_19_fui.bundle",
+            "FileName": "89b2cebda3f7ddd29ad8381734a8230e.bundle",
+            "FileHash": "89b2cebda3f7ddd29ad8381734a8230e",
+            "FileCRC": "d8816857",
+            "FileSize": 1355,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_19_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_20_atlas0.bundle",
+            "FileName": "878974ebfa0969c91d4bc9127a82903b.bundle",
+            "FileHash": "878974ebfa0969c91d4bc9127a82903b",
+            "FileCRC": "5ea9c76d",
+            "FileSize": 362805,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_20_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_20_fui.bundle",
+            "FileName": "b6aaef15d7f476fa0174087783373a2b.bundle",
+            "FileHash": "b6aaef15d7f476fa0174087783373a2b",
+            "FileCRC": "625712ec",
+            "FileSize": 1341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_20_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_21_atlas0.bundle",
+            "FileName": "b31a31206cfbaa11da0b80c676100eef.bundle",
+            "FileHash": "b31a31206cfbaa11da0b80c676100eef",
+            "FileCRC": "b1999e49",
+            "FileSize": 349034,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_21_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_21_fui.bundle",
+            "FileName": "7388f2bf261d49e2124d59c427bc7ebe.bundle",
+            "FileHash": "7388f2bf261d49e2124d59c427bc7ebe",
+            "FileCRC": "f45683c5",
+            "FileSize": 1354,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_21_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_22_atlas0.bundle",
+            "FileName": "f94628ee16697da380dd13a2e27ea77f.bundle",
+            "FileHash": "f94628ee16697da380dd13a2e27ea77f",
+            "FileCRC": "29a353f7",
+            "FileSize": 375341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_22_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_22_fui.bundle",
+            "FileName": "29883ab038e040fe2804ad7b18c6e847.bundle",
+            "FileHash": "29883ab038e040fe2804ad7b18c6e847",
+            "FileCRC": "0d3ae9cb",
+            "FileSize": 1341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_22_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_23_atlas0.bundle",
+            "FileName": "9d967e208534e025d9512176eac12734.bundle",
+            "FileHash": "9d967e208534e025d9512176eac12734",
+            "FileCRC": "ed7dcfa7",
+            "FileSize": 364940,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_23_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_23_fui.bundle",
+            "FileName": "8c6349abc9ac0157c56cc0844b404387.bundle",
+            "FileHash": "8c6349abc9ac0157c56cc0844b404387",
+            "FileCRC": "a9646a7d",
+            "FileSize": 1341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_23_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_24_atlas0.bundle",
+            "FileName": "342dd4911a36786495d9cf743cc57ca9.bundle",
+            "FileHash": "342dd4911a36786495d9cf743cc57ca9",
+            "FileCRC": "a59d5c77",
+            "FileSize": 365548,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_24_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_map_24_fui.bundle",
+            "FileName": "efbbbdfc31ee7f35d5c83deaeb35322c.bundle",
+            "FileHash": "efbbbdfc31ee7f35d5c83deaeb35322c",
+            "FileCRC": "6a0cb0f1",
+            "FileSize": 1341,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/Map_24_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_puzzlepkg_atlas0.bundle",
+            "FileName": "054142f0dc02895524c2ee32edbae713.bundle",
+            "FileHash": "054142f0dc02895524c2ee32edbae713",
+            "FileCRC": "41a86af2",
+            "FileSize": 33132,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/PuzzlePKG_atlas0.png"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_puzzlepkg_fui.bundle",
+            "FileName": "3a37cb480fe470e708f3174b199a8f89.bundle",
+            "FileHash": "3a37cb480fe470e708f3174b199a8f89",
+            "FileCRC": "5362eb9c",
+            "FileSize": 7175,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/PuzzlePKG_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_settingpkg_fui.bundle",
+            "FileName": "60fdcae33f953bffa49e204e01779aab.bundle",
+            "FileHash": "60fdcae33f953bffa49e204e01779aab",
+            "FileCRC": "3175b300",
+            "FileSize": 5035,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/SettingPKG_fui.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_simchinese.bundle",
+            "FileName": "1e21d369a9220db87b8558d4acd49e4e.bundle",
+            "FileHash": "1e21d369a9220db87b8558d4acd49e4e",
+            "FileCRC": "bb055ce8",
+            "FileSize": 21307,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/SimChinese.xml"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_source_bold.bundle",
+            "FileName": "d78fe4915f3dcac6a6aa0f0958269e1f.bundle",
+            "FileHash": "d78fe4915f3dcac6a6aa0f0958269e1f",
+            "FileCRC": "2ceee076",
+            "FileSize": 3802477,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/source_bold.ttf"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_fgui_trachinese.bundle",
+            "FileName": "fd50eca023a665e1098a0a0d2880b771.bundle",
+            "FileHash": "fd50eca023a665e1098a0a0d2880b771",
+            "FileCRC": "1fd75dd1",
+            "FileSize": 15964,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/fgui/TraChinese.xml"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gamescript_hotupdate_config_json.bundle",
+            "FileName": "20d16b416777c68e9eece6f957717438.bundle",
+            "FileHash": "20d16b416777c68e9eece6f957717438",
+            "FileCRC": "15c5b956",
+            "FileSize": 1445,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameScript/HotUpdate/Config/json/Save_1002.json",
+                "Assets/GameScript/HotUpdate/Config/json/VideoConfig.json"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gamescript_hotupdate_config_lubanbytes.bundle",
+            "FileName": "c12cc31855610e7ab5cbf6c97b7a1729.bundle",
+            "FileHash": "c12cc31855610e7ab5cbf6c97b7a1729",
+            "FileCRC": "5304511a",
+            "FileSize": 17240,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameScript/HotUpdate/Config/lubanBytes/tbcfg_language.bytes",
+                "Assets/GameScript/HotUpdate/Config/lubanBytes/tbeffectconfig.bytes",
+                "Assets/GameScript/HotUpdate/Config/lubanBytes/tbgmconfig.bytes",
+                "Assets/GameScript/HotUpdate/Config/lubanBytes/tbpuzzleconfig.bytes",
+                "Assets/GameScript/HotUpdate/Config/lubanBytes/tbpuzzlemapconfig.bytes",
+                "Assets/GameScript/HotUpdate/Config/lubanBytes/tbscript_language.bytes",
+                "Assets/GameScript/HotUpdate/Config/lubanBytes/tbsoundconfig.bytes",
+                "Assets/GameScript/HotUpdate/Config/lubanBytes/tbtiptextconfig.bytes"
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_gameres_prefab.bundle",
+            "FileName": "bdc4c698e0d1aedb8e68a1feb2b98a8f.bundle",
+            "FileHash": "bdc4c698e0d1aedb8e68a1feb2b98a8f",
+            "FileCRC": "1ad996c7",
+            "FileSize": 5070,
+            "Encrypted": false,
+            "Tags": [],
+            "DependBundles": [],
+            "AllBuiltinAssets": [
+                "Assets/GameRes/prefab/MapBlockUnit.prefab",
+                "Assets/GameRes/prefab/tilePre.prefab"
+            ]
+        }
+    ],
+    "IndependAssets": []
+}
