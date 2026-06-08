@@ -1,0 +1,184 @@
+{
+    "FileVersion": "2.0.0",
+    "EnableAddressable": false,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "OutputNameStyle": 0,
+    "BuildPipeline": "RawFileBuildPipeline",
+    "PackageName": "HotFixPackage",
+    "PackageVersion": "v1.0.6",
+    "AssetList": [
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameResHotFix/AOT.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 0
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameResHotFix/HotUpdate.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 1
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameResHotFix/HotUpdate.pdb.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 2
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameResHotFix/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 3
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameResHotFix/Newtonsoft.Json.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 4
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameResHotFix/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 5
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameResHotFix/UniTask.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 6
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameResHotFix/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 7
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameResHotFix/UnityEngine.JSONSerializeModule.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 8
+        },
+        {
+            "Address": "",
+            "AssetPath": "Assets/GameResHotFix/YooAsset.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [],
+            "BundleID": 9
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "hotfixpackage_assets_gamereshotfix_aot_dll_bytes.rawfile",
+            "UnityCRC": 0,
+            "FileHash": "86a0f978c62049b06aa850912f05ac85",
+            "FileCRC": "a0781531",
+            "FileSize": 56832,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "hotfixpackage_assets_gamereshotfix_hotupdate_dll_bytes.rawfile",
+            "UnityCRC": 0,
+            "FileHash": "21bff78518ce6ba47790f9fd85f0e3e7",
+            "FileCRC": "31cfbe1b",
+            "FileSize": 224256,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "hotfixpackage_assets_gamereshotfix_hotupdate_pdb_bytes.rawfile",
+            "UnityCRC": 0,
+            "FileHash": "fb493e9c3bb2d7cbe65b47e5d5adc57e",
+            "FileCRC": "c3945812",
+            "FileSize": 105648,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "hotfixpackage_assets_gamereshotfix_mscorlib_dll_bytes.rawfile",
+            "UnityCRC": 0,
+            "FileHash": "88ad9118e0106f815426fec62478feba",
+            "FileCRC": "0f371f3b",
+            "FileSize": 2439680,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "hotfixpackage_assets_gamereshotfix_newtonsoft_json_dll_bytes.rawfile",
+            "UnityCRC": 0,
+            "FileHash": "2fe81c7fbde8c9b143e94a4eafe2a949",
+            "FileCRC": "7efc8636",
+            "FileSize": 367616,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "hotfixpackage_assets_gamereshotfix_system_core_dll_bytes.rawfile",
+            "UnityCRC": 0,
+            "FileHash": "aaefa1c029d517c5783128d5921d9144",
+            "FileCRC": "8cb32cfe",
+            "FileSize": 451072,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "hotfixpackage_assets_gamereshotfix_unitask_dll_bytes.rawfile",
+            "UnityCRC": 0,
+            "FileHash": "d4972130ae39cc4df6335a3eb60fc648",
+            "FileCRC": "d4ffa9e1",
+            "FileSize": 536064,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "hotfixpackage_assets_gamereshotfix_unityengine_coremodule_dll_bytes.rawfile",
+            "UnityCRC": 0,
+            "FileHash": "16a4c2a64aaee17a17e1e3d2267e7012",
+            "FileCRC": "2ddca6ff",
+            "FileSize": 515072,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "hotfixpackage_assets_gamereshotfix_unityengine_jsonserializemodule_dll_bytes.rawfile",
+            "UnityCRC": 0,
+            "FileHash": "65b27a9257779dcd3ff9baa471674dd7",
+            "FileCRC": "78920839",
+            "FileSize": 11264,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        },
+        {
+            "BundleName": "hotfixpackage_assets_gamereshotfix_yooasset_dll_bytes.rawfile",
+            "UnityCRC": 0,
+            "FileHash": "d310a8af31cadccc4aa6796e4d9bfb79",
+            "FileCRC": "c1c64ba8",
+            "FileSize": 172032,
+            "Encrypted": false,
+            "Tags": [],
+            "DependIDs": []
+        }
+    ]
+}
