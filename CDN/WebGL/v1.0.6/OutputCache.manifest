@@ -1,0 +1,324 @@
+ManifestFileVersion: 0
+CRC: 3054715721
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: defaultpackage_assets_gameres_effect.bundle
+      Dependencies:
+        Dependency_0: defaultpackage_unityshaders.bundle
+    Info_1:
+      Name: defaultpackage_assets_gameres_audio.bundle
+      Dependencies: {}
+    Info_2:
+      Name: defaultpackage_unityshaders.bundle
+      Dependencies: {}
+    Info_3:
+      Name: defaultpackage_assets_gameres_scene_init_reflectionprobe-0.bundle
+      Dependencies: {}
+    Info_4:
+      Name: defaultpackage_assets_gameres_scene_init.bundle
+      Dependencies:
+        Dependency_0: defaultpackage_assets_gameres_scene_init_reflectionprobe-0.bundle
+    Info_5:
+      Name: defaultpackage_assets_gameres_scene_test.bundle
+      Dependencies: {}
+    Info_6:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_atlas0.bundle
+      Dependencies: {}
+    Info_7:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_atlas_y3wt1ygcgs1.bundle
+      Dependencies: {}
+    Info_8:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_fui.bundle
+      Dependencies: {}
+    Info_9:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_qok1hz9cy9.bundle
+      Dependencies: {}
+    Info_10:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh1.bundle
+      Dependencies: {}
+    Info_11:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh2.bundle
+      Dependencies: {}
+    Info_12:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh3.bundle
+      Dependencies: {}
+    Info_13:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh4.bundle
+      Dependencies: {}
+    Info_14:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh5.bundle
+      Dependencies: {}
+    Info_15:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh6.bundle
+      Dependencies: {}
+    Info_16:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh7.bundle
+      Dependencies: {}
+    Info_17:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh8.bundle
+      Dependencies: {}
+    Info_18:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouh9.bundle
+      Dependencies: {}
+    Info_19:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouha.bundle
+      Dependencies: {}
+    Info_20:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouhb.bundle
+      Dependencies: {}
+    Info_21:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouhm.bundle
+      Dependencies: {}
+    Info_22:
+      Name: defaultpackage_assets_gameres_fgui_commonpkg_u9ouhn.bundle
+      Dependencies: {}
+    Info_23:
+      Name: defaultpackage_assets_gameres_fgui_dialogtip_atlas0.bundle
+      Dependencies: {}
+    Info_24:
+      Name: defaultpackage_assets_gameres_fgui_dialogtip_fui.bundle
+      Dependencies: {}
+    Info_25:
+      Name: defaultpackage_assets_gameres_fgui_english.bundle
+      Dependencies: {}
+    Info_26:
+      Name: defaultpackage_assets_gameres_fgui_gmview_fui.bundle
+      Dependencies: {}
+    Info_27:
+      Name: defaultpackage_assets_gameres_fgui_login_atlas0.bundle
+      Dependencies: {}
+    Info_28:
+      Name: defaultpackage_assets_gameres_fgui_login_fui.bundle
+      Dependencies: {}
+    Info_29:
+      Name: defaultpackage_assets_gameres_fgui_map_01_atlas_ljwt1ygcgb5.bundle
+      Dependencies: {}
+    Info_30:
+      Name: defaultpackage_assets_gameres_fgui_map_01_fui.bundle
+      Dependencies: {}
+    Info_31:
+      Name: defaultpackage_assets_gameres_fgui_map_02_atlas0.bundle
+      Dependencies: {}
+    Info_32:
+      Name: defaultpackage_assets_gameres_fgui_map_02_fui.bundle
+      Dependencies: {}
+    Info_33:
+      Name: defaultpackage_assets_gameres_fgui_map_03_atlas0.bundle
+      Dependencies: {}
+    Info_34:
+      Name: defaultpackage_assets_gameres_fgui_map_03_fui.bundle
+      Dependencies: {}
+    Info_35:
+      Name: defaultpackage_assets_gameres_fgui_map_04_atlas0.bundle
+      Dependencies: {}
+    Info_36:
+      Name: defaultpackage_assets_gameres_fgui_map_04_fui.bundle
+      Dependencies: {}
+    Info_37:
+      Name: defaultpackage_assets_gameres_fgui_map_05_atlas0.bundle
+      Dependencies: {}
+    Info_38:
+      Name: defaultpackage_assets_gameres_fgui_map_05_fui.bundle
+      Dependencies: {}
+    Info_39:
+      Name: defaultpackage_assets_gameres_fgui_map_06_atlas0.bundle
+      Dependencies: {}
+    Info_40:
+      Name: defaultpackage_assets_gameres_fgui_map_06_fui.bundle
+      Dependencies: {}
+    Info_41:
+      Name: defaultpackage_assets_gameres_fgui_map_07_atlas0.bundle
+      Dependencies: {}
+    Info_42:
+      Name: defaultpackage_assets_gameres_fgui_map_07_fui.bundle
+      Dependencies: {}
+    Info_43:
+      Name: defaultpackage_assets_gameres_fgui_map_08_atlas0.bundle
+      Dependencies: {}
+    Info_44:
+      Name: defaultpackage_assets_gameres_fgui_map_08_fui.bundle
+      Dependencies: {}
+    Info_45:
+      Name: defaultpackage_assets_gameres_fgui_map_09_atlas0.bundle
+      Dependencies: {}
+    Info_46:
+      Name: defaultpackage_assets_gameres_fgui_map_09_fui.bundle
+      Dependencies: {}
+    Info_47:
+      Name: defaultpackage_assets_gameres_fgui_map_10_atlas0.bundle
+      Dependencies: {}
+    Info_48:
+      Name: defaultpackage_assets_gameres_fgui_map_10_fui.bundle
+      Dependencies: {}
+    Info_49:
+      Name: defaultpackage_assets_gameres_fgui_map_11_atlas0.bundle
+      Dependencies: {}
+    Info_50:
+      Name: defaultpackage_assets_gameres_fgui_map_11_fui.bundle
+      Dependencies: {}
+    Info_51:
+      Name: defaultpackage_assets_gameres_fgui_map_12_atlas0.bundle
+      Dependencies: {}
+    Info_52:
+      Name: defaultpackage_assets_gameres_fgui_map_12_fui.bundle
+      Dependencies: {}
+    Info_53:
+      Name: defaultpackage_assets_gameres_fgui_map_13_atlas0.bundle
+      Dependencies: {}
+    Info_54:
+      Name: defaultpackage_assets_gameres_fgui_map_13_fui.bundle
+      Dependencies: {}
+    Info_55:
+      Name: defaultpackage_assets_gameres_fgui_map_14_atlas0.bundle
+      Dependencies: {}
+    Info_56:
+      Name: defaultpackage_assets_gameres_fgui_map_14_fui.bundle
+      Dependencies: {}
+    Info_57:
+      Name: defaultpackage_assets_gameres_fgui_map_15_atlas0.bundle
+      Dependencies: {}
+    Info_58:
+      Name: defaultpackage_assets_gameres_fgui_map_15_fui.bundle
+      Dependencies: {}
+    Info_59:
+      Name: defaultpackage_assets_gameres_fgui_map_16_atlas0.bundle
+      Dependencies: {}
+    Info_60:
+      Name: defaultpackage_assets_gameres_fgui_map_16_fui.bundle
+      Dependencies: {}
+    Info_61:
+      Name: defaultpackage_assets_gameres_fgui_map_17_atlas0.bundle
+      Dependencies: {}
+    Info_62:
+      Name: defaultpackage_assets_gameres_fgui_map_17_fui.bundle
+      Dependencies: {}
+    Info_63:
+      Name: defaultpackage_assets_gameres_fgui_map_18_atlas0.bundle
+      Dependencies: {}
+    Info_64:
+      Name: defaultpackage_assets_gameres_fgui_map_18_fui.bundle
+      Dependencies: {}
+    Info_65:
+      Name: defaultpackage_assets_gameres_fgui_map_19_atlas0.bundle
+      Dependencies: {}
+    Info_66:
+      Name: defaultpackage_assets_gameres_fgui_map_19_fui.bundle
+      Dependencies: {}
+    Info_67:
+      Name: defaultpackage_assets_gameres_fgui_map_20_atlas0.bundle
+      Dependencies: {}
+    Info_68:
+      Name: defaultpackage_assets_gameres_fgui_map_20_fui.bundle
+      Dependencies: {}
+    Info_69:
+      Name: defaultpackage_assets_gameres_fgui_map_21_atlas0.bundle
+      Dependencies: {}
+    Info_70:
+      Name: defaultpackage_assets_gameres_fgui_map_21_fui.bundle
+      Dependencies: {}
+    Info_71:
+      Name: defaultpackage_assets_gameres_fgui_map_22_atlas0.bundle
+      Dependencies: {}
+    Info_72:
+      Name: defaultpackage_assets_gameres_fgui_map_22_fui.bundle
+      Dependencies: {}
+    Info_73:
+      Name: defaultpackage_assets_gameres_fgui_map_23_atlas0.bundle
+      Dependencies: {}
+    Info_74:
+      Name: defaultpackage_assets_gameres_fgui_map_23_fui.bundle
+      Dependencies: {}
+    Info_75:
+      Name: defaultpackage_assets_gameres_fgui_map_24_atlas0.bundle
+      Dependencies: {}
+    Info_76:
+      Name: defaultpackage_assets_gameres_fgui_map_24_fui.bundle
+      Dependencies: {}
+    Info_77:
+      Name: defaultpackage_assets_gameres_fgui_map_25_atlas0.bundle
+      Dependencies: {}
+    Info_78:
+      Name: defaultpackage_assets_gameres_fgui_map_25_fui.bundle
+      Dependencies: {}
+    Info_79:
+      Name: defaultpackage_assets_gameres_fgui_map_26_atlas0.bundle
+      Dependencies: {}
+    Info_80:
+      Name: defaultpackage_assets_gameres_fgui_map_26_fui.bundle
+      Dependencies: {}
+    Info_81:
+      Name: defaultpackage_assets_gameres_fgui_map_27_atlas0.bundle
+      Dependencies: {}
+    Info_82:
+      Name: defaultpackage_assets_gameres_fgui_map_27_fui.bundle
+      Dependencies: {}
+    Info_83:
+      Name: defaultpackage_assets_gameres_fgui_map_28_atlas0.bundle
+      Dependencies: {}
+    Info_84:
+      Name: defaultpackage_assets_gameres_fgui_map_28_fui.bundle
+      Dependencies: {}
+    Info_85:
+      Name: defaultpackage_assets_gameres_fgui_map_29_atlas0.bundle
+      Dependencies: {}
+    Info_86:
+      Name: defaultpackage_assets_gameres_fgui_map_29_fui.bundle
+      Dependencies: {}
+    Info_87:
+      Name: defaultpackage_assets_gameres_fgui_map_30_atlas0.bundle
+      Dependencies: {}
+    Info_88:
+      Name: defaultpackage_assets_gameres_fgui_map_30_fui.bundle
+      Dependencies: {}
+    Info_89:
+      Name: defaultpackage_assets_gameres_fgui_map_31_atlas0.bundle
+      Dependencies: {}
+    Info_90:
+      Name: defaultpackage_assets_gameres_fgui_map_31_fui.bundle
+      Dependencies: {}
+    Info_91:
+      Name: defaultpackage_assets_gameres_fgui_map_32_atlas0.bundle
+      Dependencies: {}
+    Info_92:
+      Name: defaultpackage_assets_gameres_fgui_map_32_fui.bundle
+      Dependencies: {}
+    Info_93:
+      Name: defaultpackage_assets_gameres_fgui_map_33_atlas0.bundle
+      Dependencies: {}
+    Info_94:
+      Name: defaultpackage_assets_gameres_fgui_map_33_fui.bundle
+      Dependencies: {}
+    Info_95:
+      Name: defaultpackage_assets_gameres_fgui_map_34_atlas0.bundle
+      Dependencies: {}
+    Info_96:
+      Name: defaultpackage_assets_gameres_fgui_map_34_fui.bundle
+      Dependencies: {}
+    Info_97:
+      Name: defaultpackage_assets_gameres_fgui_puzzlepkg_atlas0.bundle
+      Dependencies: {}
+    Info_98:
+      Name: defaultpackage_assets_gameres_fgui_puzzlepkg_fui.bundle
+      Dependencies: {}
+    Info_99:
+      Name: defaultpackage_assets_gameres_fgui_settingpkg_fui.bundle
+      Dependencies: {}
+    Info_100:
+      Name: defaultpackage_assets_gameres_fgui_simchinese.bundle
+      Dependencies: {}
+    Info_101:
+      Name: defaultpackage_assets_gameres_fgui_source_bold.bundle
+      Dependencies: {}
+    Info_102:
+      Name: defaultpackage_assets_gameres_fgui_trachinese.bundle
+      Dependencies: {}
+    Info_103:
+      Name: defaultpackage_assets_gamescript_hotupdate_config_json.bundle
+      Dependencies: {}
+    Info_104:
+      Name: defaultpackage_assets_gamescript_hotupdate_config_lubanbytes.bundle
+      Dependencies: {}
+    Info_105:
+      Name: defaultpackage_assets_gameres_prefab.bundle
+      Dependencies: {}
